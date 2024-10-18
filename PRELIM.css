@@ -1,0 +1,73 @@
+.back{
+    background-image: url(./IMAGE/cc.gif);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    width: 100%; 
+        
+}
+
+.title{
+    position: relative;
+    text-align: center;
+    margin-top: 50%;
+    margin-left: 7%;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+.img1{
+    position: relative;
+    justify-content: center;
+    width: 80%;
+    margin-left: 15%;
+    transform: rotate(270deg);
+
+}
+
+.img2{
+    position: relative;
+    justify-content: center;
+    width: 79%;
+    margin-left: 18%;
+    transform: rotate(270deg);
+
+
+}
+
+.name{
+    color: rgb(0, 0, 0);
+    margin-left: 20%;
+   
+}
+
+.score{
+    color: rgb(0, 0, 0); 
+}
+
+.care{
+    color: rgb(0, 0, 0);
+}
+
+
+.play{
+    justify-content: center;
+    height: 10%;
+    margin-left: 45%;
+    margin-bottom: 10%;
+    color: white;
+}
+
+#result{
+    color: rgb(0, 0, 0);
+    margin-bottom: 10%;
+    font-size: 15px;
+}
+
+@media (min-width: 576px) {
+  }
+  
+  @media (min-width: 577px) and (max-width: 768px) {
+
+  }
